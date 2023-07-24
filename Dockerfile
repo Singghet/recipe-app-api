@@ -1,5 +1,5 @@
 From python:3.9-alpine3.13
-LABEL maintainer="Demo_Appdeveloper.com"
+LABEL maintainer="singhat"
 ENV PYTHONBUFFERED 1
 
 COPY ./requirements.txt /tmp/requirements.txt
