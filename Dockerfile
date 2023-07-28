@@ -1,4 +1,4 @@
-From python:3.9-alpine3.13
+From python:3.9.16-alpine3.17
 LABEL maintainer="singhat"
 ENV PYTHONBUFFERED 1
 
